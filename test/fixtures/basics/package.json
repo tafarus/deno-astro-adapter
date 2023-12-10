@@ -3,10 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "astro": "^3",
+    "astro": "^4",
     "@astrojs/deno": "workspace:*",
     "@astrojs/react": "^3",
-    "@astrojs/mdx": "^1",
+    "@astrojs/mdx": "^2",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
   }
